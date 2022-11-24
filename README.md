@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gil-Ferrao.
-- 👀 I’m interested in software development and algorithm finding mainly.
+- 👀 I’m interested in software development and data structures and algorithms mainly.
 - 🌱 I’m currently learning Java, C and Assembly.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
